@@ -15,6 +15,8 @@ R86S 是一款面向极客和科技爱好者的软路由 / MINIPC/ 开发板 设
 
 这里是专为R86S建立的文档页。
 
+文档仍然在建设中，可能会存在多语言文档不同步的情况。
+
 This is document for R86S.
 
 English documents Click [Here](./en/)
