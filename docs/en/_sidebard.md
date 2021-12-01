@@ -9,4 +9,4 @@
     - [Why R86S](/en/start/why_r86s.md)
 - Dev Documents
     - [FPC Port Defination](/en/dev/fpc_port_def.md)
-- [Contact Information]()
+- [Contact Information](/en/contact.md)
