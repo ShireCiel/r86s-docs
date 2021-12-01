@@ -13,6 +13,16 @@
 |Extensions|2xFPC[PCIE3.0x4 + PCIE3.0x1]|
 |Extensions Options|NVME/10G NIC(with 2 SFP+)|
 
+|Item|Size|
+|  ----  | ----  |
+|NVME Version|119x79x27mm|
+|10G NIC Version|119*79*42mm|
+
+|Item|Weight|
+|  ----  | ----  |
+|NVME Version|350g|
+|10G NIC Version|500g|
+
 ### NVME Extensions
 Use all of 2xFPC port to support 1xNVME ssd stroage[2280 PCIE3.0x4] and 1xNGFF wifi[2230 PCIE3.0x1+USB2.0x1]
 
