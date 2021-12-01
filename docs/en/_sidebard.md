@@ -7,3 +7,5 @@
     - [NVME Version Image[Without Fan]](/en/start/nvme-with-nofan.md)
     - [Performance Score Compare](/en/start/performance-compare.md)
     - [Why R86S](/en/start/why_r86s.md)
+- Dev Documents
+    - [FPC Port Defination](/en/dev/fpc_port_def.md)

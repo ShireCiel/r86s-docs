@@ -7,3 +7,5 @@
     - [NVME版本图片【无风水】](/en/start/nvme-with-nofan.md)
     - [跑分对比](/en/start/performance-compare.md)
     - [为什么选择R86S](/en/start/why_r86s.md)
+- 开发信息
+    - [FPC扩展接口定义]
