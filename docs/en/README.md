@@ -2,6 +2,8 @@
 
 > MINIPC/ MINI X86 Dev Board/ 10G Open Source Router 
 
+<img class="MuiBox-root css-5akfuy" alt="R86S" src="https://tttemp.oss-cn-shanghai.aliyuncs.com/minix86/R86S%E4%BB%85%E4%B8%BB%E6%9D%BF.stp.PNG" style="height: 25em">
+
 # What it is
 
 R86S is an X86 Open Source Router/MINIPC/Development Board device for geeks and technology fanciers. 
@@ -17,3 +19,6 @@ R86S is an X86 Open Source Router/MINIPC/Development Board device for geeks and 
 There is document for R86S.
 
 Documents is preparing
+
+![BoardPIC][3]
+[3]: https://tttemp.oss-cn-shanghai.aliyuncs.com/minix86/R86S%E4%BB%85%E4%B8%BB%E6%9D%BF.stp.PNG

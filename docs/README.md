@@ -2,6 +2,8 @@
 
 > MINI万兆软路由 / MINIPC/ X86开发板
 
+<img class="MuiBox-root css-5akfuy" alt="R86S" src="https://tttemp.oss-cn-shanghai.aliyuncs.com/minix86/R86S%E4%BB%85%E4%B8%BB%E6%9D%BF.stp.PNG" style="height: 25em">
+
 # What it is
 
 R86S 是一款面向极客和科技爱好者的软路由 / MINIPC/ 开发板 设备。采用 X86 架构。
