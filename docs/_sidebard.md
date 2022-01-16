@@ -1,6 +1,11 @@
 * [欢迎页](README.md)
 
 - 快速开始
+    - [产品介绍](start/产品介绍.md)
+    - [出厂系统](start/出厂系统.md) 
+    - [省电](start/省电.md) 
+
+- 产品信息
     - [产品介绍](start/产品介绍.md) 
     - [爆炸分解图](/start/product_image.md) 
     - [NVME版本图片【有风扇】](/start/nvme-with-fan.md)
