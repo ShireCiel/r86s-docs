@@ -1,5 +1,6 @@
 # FPC扩展接口定义
 
+30P 0.5mm pin间距
 
 ![FPC Define][5]
 
