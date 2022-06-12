@@ -7,6 +7,7 @@
 
 - 产品信息
     - [产品介绍](/start/产品介绍.md) 
+    - [万兆NVME功耗与温度](/product_info/power_and_temp.md) 
     - [爆炸分解图](/product_info/product_image.md) 
     - [NVME版本图片【有风扇】](/product_info/nvme-with-fan.md)
     - [NVME版本图片【无风扇】](/product_info/nvme-with-nofan.md)
